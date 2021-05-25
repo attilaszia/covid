@@ -1,6 +1,6 @@
 # covid
 
-```
+```javascript
                                     {
                                         key: "getVaccinedetails",
                                         value: function () {
